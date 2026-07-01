@@ -1,0 +1,6 @@
+config.env
+output/
+output_example/
+.DS_Store
+__pycache__/
+*.pyc
